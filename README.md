@@ -1,5 +1,4 @@
 # django_blog
-基于Django开发的next主题个人博客网站：http://www.geerniya.cn/
 
 前端模板下载：[django_blog_templates](https://github.com/geerniya/django_blog_templates)
 
@@ -12,7 +11,7 @@ pycharm
 mysql 5.7
 virtualenv
 ```
-部署在阿里云服务器上，centos7系统，部署方式为nginx+uwsgi。觉得有用的欢迎给个star
+部署在阿里云服务器上，centos7系统，部署方式为nginx+uwsgi。
 
 ## 详细步骤如下
 
@@ -48,3 +47,5 @@ virtualenv
 - [Django开发个人博客网站——30、总结](http://www.geerniya.cn/blog/49/)
 - [Django开发个人博客网站——31、给网站添加上404、500页面](http://www.geerniya.cn/blog/50/)
 - [Django开发个人博客网站——32、启用Let's Encrypt免费的HTTPS证书](http://www.geerniya.cn/blog/51/)
+
+
